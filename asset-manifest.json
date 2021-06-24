@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CrashCourse/static/css/main.9d8a1601.chunk.css",
+    "main.js": "/CrashCourse/static/js/main.25fcb933.chunk.js",
+    "main.js.map": "/CrashCourse/static/js/main.25fcb933.chunk.js.map",
+    "runtime-main.js": "/CrashCourse/static/js/runtime-main.cb3c1d60.js",
+    "runtime-main.js.map": "/CrashCourse/static/js/runtime-main.cb3c1d60.js.map",
+    "static/js/2.4f62b850.chunk.js": "/CrashCourse/static/js/2.4f62b850.chunk.js",
+    "static/js/2.4f62b850.chunk.js.map": "/CrashCourse/static/js/2.4f62b850.chunk.js.map",
+    "static/js/3.5c132acd.chunk.js": "/CrashCourse/static/js/3.5c132acd.chunk.js",
+    "static/js/3.5c132acd.chunk.js.map": "/CrashCourse/static/js/3.5c132acd.chunk.js.map",
+    "index.html": "/CrashCourse/index.html",
+    "static/css/main.9d8a1601.chunk.css.map": "/CrashCourse/static/css/main.9d8a1601.chunk.css.map",
+    "static/js/2.4f62b850.chunk.js.LICENSE.txt": "/CrashCourse/static/js/2.4f62b850.chunk.js.LICENSE.txt",
+    "static/media/main.9adfbb09.jpg": "/CrashCourse/static/media/main.9adfbb09.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb3c1d60.js",
+    "static/js/2.4f62b850.chunk.js",
+    "static/css/main.9d8a1601.chunk.css",
+    "static/js/main.25fcb933.chunk.js"
+  ]
+}
