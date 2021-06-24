@@ -1,0 +1,20 @@
+.profile{
+    padding:90px;
+    margin-top:1px;
+    text-align: center;
+    
+    
+}
+.profile h4{
+    color:rgb(10, 10, 7);
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+   
+    font-size: 200%;
+    font-weight: 500;
+    
+    margin-right: 900px;
+   padding-top: 60px;
+}
+.suprofile{
+    display:flex;
+}

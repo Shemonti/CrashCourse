@@ -1,0 +1,15 @@
+.User{
+    border: 1px solid red;
+    width: 800px;
+    padding:7px;
+    margin:15px;
+    border-radius:10px;
+    display:flex;
+}
+.info{
+    padding:10px;
+    margin-right:90px;
+}
+.image{
+    margin:50px;
+}
